@@ -1,3 +1,8 @@
+//EKA FITRIANINGSIH
+//1121031032
+//DDLC.CPP
+//MENAMBAHKAN FUNGSI CARI DAN HAPUS DATA TERTENTU
+
 #include <iostream>
 
 using namespace std;
